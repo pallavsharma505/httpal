@@ -1,0 +1,28 @@
+{
+  "name": "httpal",
+  "version": "0.0.1",
+  "description": "NodeJS Backend API",
+  "keywords": [
+    "NodeJS",
+    "Javascript",
+    "API",
+    "backend",
+    "http",
+    "https"
+  ],
+  "homepage": "https://github.com/pallavsharma505/httpal#readme",
+  "bugs": {
+    "url": "https://github.com/pallavsharma505/httpal/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pallavsharma505/httpal.git"
+  },
+  "license": "MIT",
+  "author": "Pallav Sharma",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
